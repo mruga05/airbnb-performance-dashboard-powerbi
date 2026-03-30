@@ -35,13 +35,13 @@ Key Questions Answered
 🖼️ Screenshots / Demo
 
 📊 Overview & Growth Dashboard
-![Overview](overview.png)
+![Overview](Overview.png)
 
 📉 Review Frequency & Trust Analysis
-![Review Frequency](review-frequency.png)
+![Review Frequency](Reviews.png)
 
 🌍 Market Share & Ratings
-![Market Share](market-share.png)
+![Market Share](Ratings.png)
 
 🚀 Project Workflow
 1. Data cleaning and preparation  
@@ -51,8 +51,7 @@ Key Questions Answered
 5. Adding navigation and storytelling elements  
 
  Live Dashboard
-(Add your Power BI link here)
-
+Live Dashboard Link: 
  Conclusion
 This dashboard helps understand Airbnb business performance, customer behavior, and host reliability.  
 It supports data-driven decision-making through clear and interactive visualizations.
