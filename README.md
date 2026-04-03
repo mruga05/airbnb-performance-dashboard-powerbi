@@ -50,9 +50,7 @@ Key Questions Answered
 4. Designing interactive dashboard pages  
 5. Adding navigation and storytelling elements  
 
- Live Dashboard
-Live Dashboard Link: ## 🔗 Live Dashboard
-
+ 🔗 Live Dashboard
 [Click here to view the dashboard](https://app.powerbi.com/links/j8i76SuzWs?ctid=f7d21901-f086-40ef-8791-305a2af5ec8a&pbi_source=linkShare&bookmarkGuid=9e32ef4c-b444-4979-b9a7-65fcbfb4fb4a)
 
 Conclusion
