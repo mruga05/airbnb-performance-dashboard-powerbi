@@ -51,7 +51,8 @@ Key Questions Answered
 5. Adding navigation and storytelling elements  
 
  Live Dashboard
-Live Dashboard Link: 
- Conclusion
+Live Dashboard Link: ![LINK](https://app.powerbi.com/links/j8i76SuzWs?ctid=f7d21901-f086-40ef-8791-305a2af5ec8a&pbi_source=linkShare&bookmarkGuid=9e32ef4c-b444-4979-b9a7-65fcbfb4fb4a)
+
+Conclusion
 This dashboard helps understand Airbnb business performance, customer behavior, and host reliability.  
 It supports data-driven decision-making through clear and interactive visualizations.
